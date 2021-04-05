@@ -4,7 +4,7 @@
 </h1>
 
 <h1>
-    <img src="https://ik.imagekit.io/bjlfhoj36uy/listadetarefas_heyUhreYh.jpg">
+    <img src="https://ik.imagekit.io/bjlfhoj36uy/listadetarefas__JstgMQNX.jpg">
 </h1>
 
 ---
